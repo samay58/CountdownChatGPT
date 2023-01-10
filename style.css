@@ -1,0 +1,24 @@
+html, body {
+  text-align: center; /* center the text */
+  font-family: 'Montserrat', sans-serif; /* use the Montserrat font */
+  font-size: 20px; /* set the font size */
+  background-image: url("https://mcdn.wallpapersafari.com/medium/17/7/36b14L.jpg"); /* set the background image */
+  background-size: cover; /* scale the image to cover the entire background */
+  background-repeat: no-repeat; /* don't repeat the image */
+   background-color: white; 
+	color: black;
+	font-weight: bold;
+}
+
+#demo {
+  display: inline-block; /* display the countdown clock as an inline element */
+  margin-top: 50px; /* add some top margin for spacing */
+}
+
+[name="countdown-date"] {
+  margin-top: 20px;
+}
+
+button {
+  margin-top: 20px; /* add some top margin for spacing */
+}
